@@ -8,13 +8,13 @@ Web scraping bot for finding promotion for shoes on Sizeer
 * [Status](#status)
 
 ## Describtion
-Simple web scraper for my own use. Using beautifulsoup4 libary and jupyter notobook as interface .
+Simple web scraper for my own use. Using beautifulsoup4 libary and jupyter notobook as interface.<br>
 It helps me finding best deals for shoes on Sizeer website.
 
 ## TO-Do
-*continuous work with email notification for top deals
-*webapp
-*use for all stock not only shoes
+* continuous work with email notification for top deals
+* webapp
+* use for all stock not only shoes
 
 ## Technologies
 * Python - Version 3.10
